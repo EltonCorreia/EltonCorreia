@@ -22,6 +22,6 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EltonCorreia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Contatos:
+## 📞 Contatos:
 
 <a href="https://www.linkedin.com/in/elton-correia-96172a220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
