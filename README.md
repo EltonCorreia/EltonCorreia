@@ -4,11 +4,7 @@
 - 🔭 Formado como técnico em análise e desenvolvimento de sistemas pela ETEC de São Paulo.  
   
 
-- 🌱 Sempre buscando aprender coisas novas.  
-  
-
-- ⚡ Curiosidade pessoal: Gosto de área de tecnologia, mas minha paixão é artes.  
-
+- 🌱 Sempre buscando aprender coisas novas.    
 
 ## 💻 Linguagens e ferramentas:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
