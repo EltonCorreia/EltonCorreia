@@ -23,10 +23,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EltonCorreia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Contatos:
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BK14%2BDyhUSYmNsjsT49LoNA%3D%3D" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://github.com/EltonCorreia" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<a href="https://www.linkedin.com/in/elton-correia-96172a220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
